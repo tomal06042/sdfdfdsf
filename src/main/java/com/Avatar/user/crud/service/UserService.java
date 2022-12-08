@@ -20,7 +20,10 @@ public class UserService {
             new User("2","Noman","Alvi" ),
             new User("3","Nur","Huda" ),
             new User("4","Aminur","Rahman" ),
-            new User("5","Rashel","Parvej" )
+            new User("5","Rashel","Parvej" ),
+            new User("6","shafik","rahman" ),
+            new User("7","arifur","Hasan" ),
+            new User("8","KAMAL","PASHA " )
 
 
     ));
